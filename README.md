@@ -8,9 +8,7 @@
 
 ## Результаты
 100% не успешный тест
-Ссылки на баг-репорты
-
-![main](https://github.com/voevodina/images/blob/master/Main.png)
+[Баг-репорт](https://github.com/voevodina/money_transfer/issues/1)
 
 ## Общие рекомендации
 Ваши рекомендации как тестировщика по итогам тестирования.
